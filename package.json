@@ -1,0 +1,18 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Afer",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "afer_node": "file:",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "node_project": "file:"
+  }
+}
